@@ -1,0 +1,8 @@
+pandas
+requests
+tweepy
+beautifulsoup4
+SQLAlchemy
+pymongo
+redis
+kafka-python
